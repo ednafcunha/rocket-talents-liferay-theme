@@ -1,4 +1,4 @@
-<div class="container">
+<div class="container bootstrap-grid-selector">
 	<div class="row">
 		<#if Fieldset69112711.getSiblings()?has_content>
 			<#list Fieldset69112711.getSiblings() as cur_Fieldset69112711>

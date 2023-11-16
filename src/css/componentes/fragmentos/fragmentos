@@ -1,0 +1,5 @@
+<div class="fragment_1">
+	<lfr-editable id="unique-id" type="text">
+   This is editable text!    
+</lfr-editable>
+</div>
