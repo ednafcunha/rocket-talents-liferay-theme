@@ -4,24 +4,9 @@
 
 @import 'liferay-font-awesome/scss/font-awesome';
 @import 'liferay-font-awesome/scss/glyphicons';
+@import 'bootstrap-card';
 
 /* endinject */
 
 /* This file allows you to override default styles in one central location for easier upgrade and maintenance. */
 
-
-.cotainer{
-    display: flex;
-    flex-direction: row;
-    margin: 20%;
-}
-nav {
-    margin-top: 44px!important;
-}
-header {
-    display: flex!important;
-    flex-direction: row!important;
-}
-ul{
-    list-style: none!important;
-}
