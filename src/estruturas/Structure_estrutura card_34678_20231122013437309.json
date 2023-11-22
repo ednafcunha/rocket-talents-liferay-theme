@@ -10,14 +10,14 @@
                 "ddmStructureLayoutId": "",
                 "ddmStructureId": "",
                 "upgradedStructure": false,
-                "fieldReference": "Fieldset31483277",
+                "fieldReference": "Fieldset46211603",
                 "rows": [
                     {
                         "columns": [
                             {
                                 "size": 12,
                                 "fields": [
-                                    "Text12891394"
+                                    "Text21383775"
                                 ]
                             }
                         ]
@@ -27,7 +27,7 @@
                             {
                                 "size": 12,
                                 "fields": [
-                                    "Image83623403"
+                                    "Image35984885"
                                 ]
                             }
                         ]
@@ -42,7 +42,7 @@
                 "pt_BR": "Grupo de campos"
             },
             "localizable": false,
-            "name": "Fieldset31483277",
+            "name": "Fieldset46211603",
             "nestedDataDefinitionFields": [
                 {
                     "customProperties": {
@@ -59,15 +59,19 @@
                         },
                         "requireConfirmation": false,
                         "displayStyle": "singleline",
-                        "fieldNamespace": "",
+                        "requiredErrorMessage": {
+                            "pt_BR": ""
+                        },
                         "visibilityExpression": "",
+                        "fieldNamespace": "",
+                        "objectFieldName": "",
                         "ddmDataProviderInstanceOutput": [],
                         "options": {
                             "pt_BR": [
                                 {
-                                    "reference": "Opção93468271",
+                                    "reference": "Opção80474413",
                                     "label": "Opção",
-                                    "value": "Opção93468271"
+                                    "value": "Opção80474413"
                                 }
                             ]
                         },
@@ -75,7 +79,7 @@
                         "confirmationLabel": {
                             "pt_BR": ""
                         },
-                        "fieldReference": "Text12891394",
+                        "fieldReference": "Text21383775",
                         "placeholder": {
                             "pt_BR": ""
                         },
@@ -84,7 +88,9 @@
                             "vertical"
                         ]
                     },
-                    "defaultValue": {},
+                    "defaultValue": {
+                        "pt_BR": ""
+                    },
                     "fieldType": "text",
                     "indexType": "keyword",
                     "indexable": true,
@@ -92,7 +98,7 @@
                         "pt_BR": "Campo de texto"
                     },
                     "localizable": true,
-                    "name": "Text12891394",
+                    "name": "Text21383775",
                     "nestedDataDefinitionFields": [],
                     "readOnly": false,
                     "repeatable": false,
@@ -104,13 +110,19 @@
                 },
                 {
                     "customProperties": {
-                        "fieldNamespace": "",
+                        "requiredErrorMessage": {
+                            "pt_BR": ""
+                        },
                         "visibilityExpression": "",
+                        "fieldNamespace": "",
+                        "objectFieldName": "",
                         "dataType": "image",
                         "requiredDescription": true,
-                        "fieldReference": "Image83623403"
+                        "fieldReference": "Image35984885"
                     },
-                    "defaultValue": {},
+                    "defaultValue": {
+                        "pt_BR": {}
+                    },
                     "fieldType": "image",
                     "indexType": "text",
                     "indexable": true,
@@ -118,7 +130,7 @@
                         "pt_BR": "Imagem"
                     },
                     "localizable": true,
-                    "name": "Image83623403",
+                    "name": "Image35984885",
                     "nestedDataDefinitionFields": [],
                     "readOnly": false,
                     "repeatable": false,
@@ -146,7 +158,7 @@
                             {
                                 "columnSize": 12,
                                 "fieldNames": [
-                                    "Fieldset31483277"
+                                    "Fieldset46211603"
                                 ]
                             }
                         ]
@@ -163,14 +175,14 @@
         "dataRules": [],
         "description": {},
         "name": {
-            "pt_BR": "estrutura cardss"
+            "pt_BR": "estrutura card"
         },
         "paginationMode": "single-page"
     },
     "defaultLanguageId": "pt_BR",
     "description": {},
     "name": {
-        "pt_BR": "estrutura cardss"
+        "pt_BR": "estrutura card"
     },
     "storageType": "default"
 }
