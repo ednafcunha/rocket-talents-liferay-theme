@@ -5,7 +5,12 @@
 @import 'liferay-font-awesome/scss/font-awesome';
 @import 'liferay-font-awesome/scss/glyphicons';
 @import 'bootstrap-card';
+@import '../banner\ carrosel/slick';
 
+.custom-logo img{
+    width: 30px!important;
+    height: 30px!important;;
+}
 /* endinject */
 
 /* This file allows you to override default styles in one central location for easier upgrade and maintenance. */

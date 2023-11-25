@@ -1,0 +1,19 @@
+// @import '../../lib/slick-1.8.1/slick/slick';
+// @import '../../lib/slick-1.8.1/slick/slick-theme';
+.bannercarrosel {
+    padding: 5rem;
+    background-color: #eee;
+    margin: 0px!important;
+}
+.slick-prev:before, .slick-next:before{
+    background-color: #aaa;
+    color: #000;
+    border-radius: 50%;
+    padding: 2px;
+}
+.slick-prev {
+    left: 32px!important;
+}
+.slick-next {
+    right: 32px!important;
+}
