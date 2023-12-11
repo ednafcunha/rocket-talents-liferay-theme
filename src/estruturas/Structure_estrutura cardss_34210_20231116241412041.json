@@ -1,0 +1,176 @@
+{
+    "availableLanguageIds": [
+        "pt_BR"
+    ],
+    "contentType": "journal",
+    "dataDefinitionFields": [
+        {
+            "customProperties": {
+                "labelAtStructureLevel": true,
+                "ddmStructureLayoutId": "",
+                "ddmStructureId": "",
+                "upgradedStructure": false,
+                "fieldReference": "Fieldset31483277",
+                "rows": [
+                    {
+                        "columns": [
+                            {
+                                "size": 12,
+                                "fields": [
+                                    "Text12891394"
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "columns": [
+                            {
+                                "size": 12,
+                                "fields": [
+                                    "Image83623403"
+                                ]
+                            }
+                        ]
+                    }
+                ],
+                "collapsible": false
+            },
+            "defaultValue": {},
+            "fieldType": "fieldset",
+            "indexable": false,
+            "label": {
+                "pt_BR": "Grupo de campos"
+            },
+            "localizable": false,
+            "name": "Fieldset31483277",
+            "nestedDataDefinitionFields": [
+                {
+                    "customProperties": {
+                        "labelAtStructureLevel": true,
+                        "confirmationErrorMessage": {
+                            "pt_BR": ""
+                        },
+                        "hideField": false,
+                        "autocomplete": false,
+                        "ddmDataProviderInstanceId": [],
+                        "dataType": "string",
+                        "tooltip": {
+                            "pt_BR": ""
+                        },
+                        "requireConfirmation": false,
+                        "displayStyle": "singleline",
+                        "fieldNamespace": "",
+                        "visibilityExpression": "",
+                        "ddmDataProviderInstanceOutput": [],
+                        "options": {
+                            "pt_BR": [
+                                {
+                                    "reference": "Opção93468271",
+                                    "label": "Opção",
+                                    "value": "Opção93468271"
+                                }
+                            ]
+                        },
+                        "nativeField": false,
+                        "confirmationLabel": {
+                            "pt_BR": ""
+                        },
+                        "fieldReference": "Text12891394",
+                        "placeholder": {
+                            "pt_BR": ""
+                        },
+                        "dataSourceType": "manual",
+                        "direction": [
+                            "vertical"
+                        ]
+                    },
+                    "defaultValue": {},
+                    "fieldType": "text",
+                    "indexType": "keyword",
+                    "indexable": true,
+                    "label": {
+                        "pt_BR": "Campo de texto"
+                    },
+                    "localizable": true,
+                    "name": "Text12891394",
+                    "nestedDataDefinitionFields": [],
+                    "readOnly": false,
+                    "repeatable": false,
+                    "required": false,
+                    "showLabel": true,
+                    "tip": {
+                        "pt_BR": ""
+                    }
+                },
+                {
+                    "customProperties": {
+                        "fieldNamespace": "",
+                        "visibilityExpression": "",
+                        "dataType": "image",
+                        "requiredDescription": true,
+                        "fieldReference": "Image83623403"
+                    },
+                    "defaultValue": {},
+                    "fieldType": "image",
+                    "indexType": "text",
+                    "indexable": true,
+                    "label": {
+                        "pt_BR": "Imagem"
+                    },
+                    "localizable": true,
+                    "name": "Image83623403",
+                    "nestedDataDefinitionFields": [],
+                    "readOnly": false,
+                    "repeatable": false,
+                    "required": false,
+                    "showLabel": true,
+                    "tip": {
+                        "pt_BR": ""
+                    }
+                }
+            ],
+            "readOnly": false,
+            "repeatable": true,
+            "required": false,
+            "showLabel": true,
+            "tip": {}
+        }
+    ],
+    "defaultDataLayout": {
+        "dataLayoutFields": {},
+        "dataLayoutPages": [
+            {
+                "dataLayoutRows": [
+                    {
+                        "dataLayoutColumns": [
+                            {
+                                "columnSize": 12,
+                                "fieldNames": [
+                                    "Fieldset31483277"
+                                ]
+                            }
+                        ]
+                    }
+                ],
+                "description": {
+                    "pt_BR": ""
+                },
+                "title": {
+                    "pt_BR": ""
+                }
+            }
+        ],
+        "dataRules": [],
+        "description": {},
+        "name": {
+            "pt_BR": "estrutura cardss"
+        },
+        "paginationMode": "single-page"
+    },
+    "defaultLanguageId": "pt_BR",
+    "description": {},
+    "name": {
+        "pt_BR": "estrutura cardss"
+    },
+    "storageType": "default"
+}
